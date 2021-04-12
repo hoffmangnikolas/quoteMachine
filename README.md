@@ -1,2 +1,2 @@
 # quoteMachine
-Famous quote generator
+Famous sports quote generator
