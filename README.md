@@ -1,2 +1,2 @@
 # quoteMachine
-Famous sports quote generator
+Quotes from the worst President in the modern era. Donald Trump quote generator.
